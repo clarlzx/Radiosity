@@ -21,5 +21,5 @@ Do note that this was a school assignment and part of the code was provided as a
     - Click "Set as Startup Project"
     - Run :smile:
 
-## Credit
+## Credits
 NUS CS4247 Teaching Team
